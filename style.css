@@ -1,0 +1,113 @@
+h1,h2{
+    color: #12608f;
+    font-family: 'Lucida Sans'; 
+    margin: 8px 0;
+}
+
+h3{
+    font-family: Helvetica;
+    margin: 8px 0;
+}
+
+p{
+    font-size: 18px;
+    letter-spacing: 0.2px;
+    margin: 8px 0;
+}
+
+li{
+    margin-bottom: 4px;
+}
+
+.contact-details{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.email{
+    display: flex;
+    justify-content: space-between;
+}
+
+.email img{
+    margin-right: 8px;
+}
+
+.phone{
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone img{
+    margin-right: 8px;
+}
+
+.address{
+    display: flex;
+    justify-content: space-between;
+}
+
+.address img{
+    margin-right: 8px;
+}
+
+.superContainer{
+    display: flex;
+    padding: 0 20px;
+}
+
+.leftContainer{
+    width: 50%;
+    margin-right: 30px;
+}
+
+.education h3{
+    font-family: Geneva;
+}
+
+.eduInfo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.eduInfo span{
+    color: #303030;
+    font-size: 13px;
+}
+
+.rightContainer{
+    width: 50%;
+}
+
+.skills button{
+    background: #12608f;
+    border-radius: 4px;
+    padding: 4px 8px;
+    border: none;
+    margin: 4px;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+}
+
+.roleCompany{
+    display: flex;
+    justify-content: space-between;
+}
+
+.interests{
+    display: flex;
+    justify-content: space-between;
+}
+
+.interests button{
+    background: transparent;
+    border-radius: 4px;
+    padding: 4px 8px;
+    border: none;
+    margin: 4px;
+    color: #000;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+}
